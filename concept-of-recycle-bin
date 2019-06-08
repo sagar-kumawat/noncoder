@@ -1,0 +1,11 @@
+# Concept of Recycle bin
+
+
+For a delete operation, most Operating systems will just mark the file as deleted, but not remove data from the hard drive. This allows for a fast delete.
+
+Actual operation in case of delete depends on the Operating system.
+In case of fast delete, the file is not going anywhere. 
+
+
+For security purposes, most Operating systems also provide option for secure delete which writes combination of zeros and ones to each hard drive sector belonging to file.
+Secure delete takes much more time compared to normal delete opration.
