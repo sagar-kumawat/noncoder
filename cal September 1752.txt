@@ -1,0 +1,18 @@
+
+Reason behind the missing dates in 1752 calender because in 1752 Britain decided to abandon the 
+Julian calendar in favour of the Gregorian. By doing so, 3 September instantly became 
+14 September - and as a result, nothing whatsoever happened in British history between 3 and 13 September 1752.
+
+
+
+The Gregorian calendar:-
+
+The Gregorian calendar is the one most used nowadays. It is named after Pope Gregory Xlll who introduced it in 1582. 
+There is a leap year every four years (or more precisely, 97 leap years every 400 years). This means that the year 
+corresponds closely with the astronomical year (365.24219 days) so that it is just one day out every 3,300 years.
+
+The Julian Calendar:-
+
+Up until 1753, the calendar we used in Britain was the Julian Calendar. It was 365.25 days long, which was fractionally 
+too long, and the calendar over time fell out of line with the seasons and thus was less accurate than the Gregorian Calendar.
+
