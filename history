@@ -1,0 +1,6 @@
+# For getting history with date and time we have a command in linux:
+
+$HISTTIMEFORMAT= "%d/%m/%y %T"
+$history
+
+
